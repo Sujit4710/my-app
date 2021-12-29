@@ -40,7 +40,7 @@ function App() {
   return (
    <>
    {/* <Router> */}
-  <Navbar title="Saitama" Mode={mode} toggle={toggleMode}/>
+  <Navbar title="Text Editor" Mode={mode} toggle={toggleMode}/>
   <Alert alert={alert}/>
   
   {/* <Routes> */}
